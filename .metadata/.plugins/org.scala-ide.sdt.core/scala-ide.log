@@ -279,3 +279,7 @@ Standard error:
 2016-02-16 10:35:25,392  WARN [Worker-1] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
 2016-02-16 10:35:40,079  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
 2016-02-16 10:35:40,079  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:39:31,703  WARN [Worker-6] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:39:31,703  WARN [Worker-6] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:39:32,778  WARN [Worker-7] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:39:32,778  WARN [Worker-7] - ScalaProject - Project ProgrammingInScala runs on platform default installation.

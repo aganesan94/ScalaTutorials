@@ -5,8 +5,6 @@ package chapter3
 // for loop has different syntax
 object ArrayDemo {
 
-  //the below line can also be written
-  // as follows: val cars:Array[String] = new Array[String](3)
   val cars = new Array[String](3);                //> cars  : Array[String] = Array(null, null, null)
   cars(0) = "Honda";
   cars(1) = "Toyota";

@@ -3,10 +3,12 @@ package chapter3
 // Declaration of array
 // the "[" is replaced with "("
 // for loop has different syntax
-object ArrayDemo {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(263); 
+object ArrayDemo {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(378); 
 
   //the below line can also be written
   // as follows: val cars:Array[String] = new Array[String](3)
+  // when an object is defined as val, it cannot be reassigned but the
+  // reference it points to can be changed.
   val cars = new Array[String](3);System.out.println("""cars  : Array[String] = """ + $show(cars ));$skip(21); ;
   cars(0) = "Honda";$skip(22); ;
   cars(1) = "Toyota";$skip(19); ;

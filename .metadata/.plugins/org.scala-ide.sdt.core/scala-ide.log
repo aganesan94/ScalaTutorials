@@ -248,3 +248,32 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2016-02-16 10:28:45,973  WARN [Worker-3] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
 2016-02-16 10:29:02,236  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
 2016-02-16 10:29:02,237  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:31:29,406  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:31:29,407  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:31:38,937  WARN [Worker-5] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:31:38,938  WARN [Worker-5] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:31:39,441  WARN [bundle-327-ActorSystem-akka.actor.default-dispatcher-3] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:31:39,441  WARN [bundle-327-ActorSystem-akka.actor.default-dispatcher-3] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:31:41,412 ERROR [Worker-0] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  
+
+2016-02-16 10:32:00,640  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:32:00,641  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:32:01,847  WARN [Worker-5] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:32:01,848  WARN [Worker-5] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:34:36,222  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:34:36,223  WARN [Worker-4] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:34:38,250  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:34:38,250  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:35:16,125  WARN [Worker-0] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:35:16,126  WARN [Worker-0] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:35:17,221  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:35:17,222  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:35:24,364  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:35:24,364  WARN [Worker-2] - ScalaProject - Project ProgrammingInScala runs on platform default installation.
+2016-02-16 10:35:25,392  WARN [Worker-1] - ScalaProject - Project ProgrammingInScala has platform default sourceLevel.
+2016-02-16 10:35:25,392  WARN [Worker-1] - ScalaProject - Project ProgrammingInScala runs on platform default installation.

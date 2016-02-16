@@ -1,0 +1,15 @@
+package chapter3
+
+object ArrayDemo {
+  //defining an array
+  val cars = new Array[String](3);                //> cars  : Array[String] = Array(null, null, null)
+  cars(0) = "Honda";
+  cars(1) = "Toyota";
+  cars(2) = "BMW";
+	println(cars.length);                     //> 3
+  for(i <- 0 to cars.length-1){
+ 		println(cars(i))                  //> Honda
+                                                  //| Toyota
+                                                  //| BMW
+  }
+}
